@@ -42,7 +42,7 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 | NE555P                       | [DigiKey](https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057)                                      |     $1.62 |            2 | 555 Timer for PWM               |
 | AOD4185                      | [DigiKey](https://www.digikey.ca/en/products/detail/alpha-omega-semiconductor-inc/AOD4185/2353887)                        |     $1.82 |            1 | Circuit Protection              |
 | 0805 LED                     | [DigiKey](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/150080GS75000/4489915)                          |     $0.30 |            1 | Onboard LED                     |
-| 10K Potentiometer            | [DigiKey](https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K425K-103B/3820304)                          |     $1.94 |            1 | Speed Adjust                     |
+| 10K Potentiometer            | [DigiKey](https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K425K-103B/3820304)                          |     $1.94 |            1 | Speed Adjuster                     |
 | PushButton                   | [DigiKey](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-160-LCR-D/15634374)                          |     $0.32 |            1 | Start/Stop Buttons                     |
 
 
