@@ -29,7 +29,7 @@ IRF9540N,https://www.digikey.ca/en/products/detail/infineon-technologies/IRF9540
 4.7K 0402 Resistor,https://www.digikey.ca/en/products/detail/yageo/RC0402FR-074K7L/2827563,$0.16,10,LED Resistors,"R3,R10",
 10K 0402 Resistor,https://www.digikey.ca/en/products/detail/yageo/RC0402JR-0710KL/726418,$0.10,10,,"R6,R8,R11",
 10K 0603 Resistor,https://www.digikey.ca/en/products/detail/yageo/RC0603FR-0710KL/726880,$0.10,10,,R12,
-NE555P,https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057,$1.62,2,,U1,1
+NE555P,https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057,$0.81,1,,U1
 AOD4185,https://www.digikey.ca/en/products/detail/alpha-omega-semiconductor-inc/AOD4185/2353887,$1.82,1,,Q3,
 0805 LED,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/150080GS75000/4489915,$0.30,1,Onboard LED,D4,
 10K Potentiometer,https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K425K-103B/3820304,$1.94,1,Speed Adjuster,,
@@ -38,3 +38,4 @@ DigiKey Shipping + GST,,$9.61,,,,
 ,,,,,,
 ,Total (CAD):,$132.79,,,,
 ,Total (USD):,$97.11,,,,
+
