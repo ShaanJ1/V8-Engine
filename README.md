@@ -46,9 +46,9 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 | PushButton                   | [DigiKey](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-160-LCR-D/15634374)                          |     $0.32 |            1 | Start/Stop Buttons                     |
 
 
-**Total (CAD):** $123.18
+**Total (CAD):** $122.37
 
-**Total (USD):** $90.08
+**Total (USD):** $89.52
 
 ### Images
 Schematic
