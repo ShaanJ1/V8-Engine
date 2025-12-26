@@ -15,7 +15,6 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 | DC Motor                     | [AliExpress](https://www.aliexpress.com/item/1005008221484428.html)                                                       |    $17.89 |            1 | Spinning Engine                 |
 | Silicone Grease              | [AliExpress](https://www.aliexpress.com/item/1005008374157659.html)                                                       |     $3.65 |            1 | Lubricant for moving parts      |
 | Heat Shrink                  | [AliExpress](https://www.aliexpress.com/item/1005008146302901.html)                                                       |     $3.62 |            1 | For exposed soldered wires      |
-| 3D Print (Shipping)          | -                                                                                                                         |    $10.00 |            1 | 3D Print Shipping Costs         |
 | PCB                          | [JLCPCB](https://jlcpcb.com/)                                                                                             |     $4.78 |            1 | Main Controller                 |
 | M3 10mm Set Screws           | [AliExpress](https://www.aliexpress.com/item/4001081433504.html)                                                          |     $2.79 |            1 | Main Assembly + Flywheel Screws |
 | M4 6mm Screws                | [AliExpress](https://www.aliexpress.com/item/1005001785690381.html)                                                       |     $2.76 |            1 | Motor Mounting Screws           |
@@ -42,13 +41,14 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 | NE555P                       | [DigiKey](https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057)                                      |     $0.81 |            1 | 555 Timer for PWM               |
 | AOD4185                      | [DigiKey](https://www.digikey.ca/en/products/detail/alpha-omega-semiconductor-inc/AOD4185/2353887)                        |     $1.82 |            1 | Circuit Protection              |
 | 0805 LED                     | [DigiKey](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/150080GS75000/4489915)                          |     $0.30 |            1 | Onboard LED                     |
-| 10K Potentiometer            | [DigiKey](https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K425K-103B/3820304)                          |     $1.94 |            1 | Speed Adjuster                     |
-| PushButton                   | [DigiKey](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-160-LCR-D/15634374)                          |     $0.32 |            1 | Start/Stop Buttons                     |
+| 10K Potentiometer            | [DigiKey](https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K425K-103B/3820304)                                 |     $1.94 |            1 | Speed Adjuster                  |
+| PushButton                   | [DigiKey](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-160-LCR-D/15634374)      |     $0.32 |            2 | Start/Stop Buttons              |
 
+#### <ins>Totals (not including taxes, shipping, or 3D printing costs)</ins>
 
-**Total (CAD):** $122.37
+**Total (CAD):** $112.37
 
-**Total (USD):** $89.52
+**Total (USD):** $82.20
 
 ### Images
 Schematic
