@@ -2,7 +2,7 @@
 A working 3D printed V8 engine powered by a DC motor with controllable speeds up to 1000RPM.
 
 ### Note:
-Make sure to lubricate all moving parts to prevent damage to your 3D print. This project was made assuming that this will be printed in ABS or another heat-resistant material. If you are using a material like PLA, note that the friction at high speeds may cause the print to melt or warp itself.
+Make sure to lubricate all moving parts to prevent damage to your 3D print. This project was made assuming that this will be printed in ABS, PETG, or another heat-resistant material. If you are using a material like PLA, note that the friction at high speeds may cause the print to melt or warp itself.
 
 ### Showcase
 *Coming soon...*
@@ -12,6 +12,7 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 | **Item Name**                | **URL**                                                                                                                   | **Price** | **Quantity** | **Use**                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------: | -----------: | ------------------------------- |
 | 12V Battery                  | [Amazon](https://a.co/d/iR5ZKYJ)                                                                                          |    $33.38 |            1 | Power Source                    |
+| 3D Printing Filament (2.5KG) | -                                                                                                                         |    $70.00 |            1 | 3D filament used (ABS + PETG)   |
 | DC Motor                     | [AliExpress](https://www.aliexpress.com/item/1005008221484428.html)                                                       |    $17.89 |            1 | Spinning Engine                 |
 | Silicone Grease              | [AliExpress](https://www.aliexpress.com/item/1005008374157659.html)                                                       |     $3.65 |            1 | Lubricant for moving parts      |
 | Heat Shrink                  | [AliExpress](https://www.aliexpress.com/item/1005008146302901.html)                                                       |     $3.62 |            1 | For exposed soldered wires      |
@@ -46,9 +47,9 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 
 #### <ins>Totals (not including taxes, shipping, or 3D printing costs)</ins>
 
-**Total (CAD):** $112.37
+**Total (CAD):** $182.37
 
-**Total (USD):** $82.20
+**Total (USD):** $132.87
 
 ### Images
 Schematic
