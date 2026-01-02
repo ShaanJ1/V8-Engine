@@ -1,6 +1,7 @@
 ﻿"Bill of Materials					",,,,,,
 "					",,,,,,
 Item Name:,URL:,Price:,Quantity:,Use:,Ref (PCB Components):,Spares: (included in quantity)
+3D Printing Filament,-,$70.00,1,3D filament used (ABS),,
 12V Battery,https://a.co/d/iR5ZKYJ,$33.38,1,Power Source,,
 DC Motor,https://www.aliexpress.com/item/1005008221484428.html,$17.89,1,Spinning Engine,,
 "Silicone Grease	",https://www.aliexpress.com/item/1005008374157659.html,$3.65,1,Lubricant for moving parts,,
@@ -36,5 +37,5 @@ AOD4185,https://www.digikey.ca/en/products/detail/alpha-omega-semiconductor-inc/
 PushButton,https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-160-LCR-D/15634374,$0.32,2,Start/Stop Buttons,,
 DigiKey Shipping + GST,,$9.57,,,,
 ,,,,,,
-,Total (CAD):,$131.94,,,,
-,Total (USD):,$96.53,,,,
+,Total (CAD):,$201.94,,,,
+,Total (USD):,$147.03,,,,
