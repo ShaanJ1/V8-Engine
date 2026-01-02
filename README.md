@@ -2,7 +2,7 @@
 A working 3D printed V8 engine powered by a DC motor with controllable speeds up to 1000RPM.
 
 ### Note:
-Make sure to lubricate all moving parts to prevent damage to your 3D print. This project was made assuming that this will be printed in ABS, PETG, or another heat-resistant material. If you are using a material like PLA, note that the friction at high speeds may cause the print to melt or warp itself.
+Make sure to lubricate all moving parts to prevent damage to your 3D print. This project was made assuming that this will be printed in ABS, PETG, or another heat-resistant material. If you are using a material like PLA, note that the friction at high speeds may cause the print to very quicky melt, warp, or damage itself in another way.
 
 ### Showcase
 *Coming soon...*
@@ -12,7 +12,7 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 | **Item Name**                | **URL**                                                                                                                   | **Price** | **Quantity** | **Use**                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------: | -----------: | ------------------------------- |
 | 12V Battery                  | [Amazon](https://a.co/d/iR5ZKYJ)                                                                                          |    $33.38 |            1 | Power Source                    |
-| 3D Printing Filament (2.5KG) | -                                                                                                                         |    $70.00 |            1 | 3D filament used (ABS + PETG)   |
+| 3D Printing Filament (2.5KG) | -                                                                                                                         |    $70.00 |            1 | 3D filament used (ABS)          |
 | DC Motor                     | [AliExpress](https://www.aliexpress.com/item/1005008221484428.html)                                                       |    $17.89 |            1 | Spinning Engine                 |
 | Silicone Grease              | [AliExpress](https://www.aliexpress.com/item/1005008374157659.html)                                                       |     $3.65 |            1 | Lubricant for moving parts      |
 | Heat Shrink                  | [AliExpress](https://www.aliexpress.com/item/1005008146302901.html)                                                       |     $3.62 |            1 | For exposed soldered wires      |
@@ -45,7 +45,7 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 | 10K Potentiometer            | [DigiKey](https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K425K-103B/3820304)                                 |     $1.94 |            1 | Speed Adjuster                  |
 | PushButton                   | [DigiKey](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-160-LCR-D/15634374)      |     $0.32 |            2 | Start/Stop Buttons              |
 
-#### <ins>Totals (not including taxes, shipping, or 3D printing costs)</ins>
+#### <ins>Totals (not including taxes or shipping)</ins>
 
 **Total (CAD):** $182.37
 
