@@ -11,8 +11,8 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 
 | **Item Name**                | **URL**                                                                                                                   | **Price** | **Quantity** | **Use**                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------: | -----------: | ------------------------------- |
+| 3D Printing Filament         | [Amazon](https://www.amazon.ca/dp/B09DKMW78Y)                                                                             |   $105.06 |      3 x 1KG | 3D filament used (ABS)          |
 | 12V Battery                  | [Amazon](https://a.co/d/iR5ZKYJ)                                                                                          |    $33.38 |            1 | Power Source                    |
-| 3D Printing Filament (2.5KG) | -                                                                                                                         |    $70.00 |            1 | 3D filament used (ABS)          |
 | DC Motor                     | [AliExpress](https://www.aliexpress.com/item/1005008221484428.html)                                                       |    $17.89 |            1 | Spinning Engine                 |
 | Silicone Grease              | [AliExpress](https://www.aliexpress.com/item/1005008374157659.html)                                                       |     $3.65 |            1 | Lubricant for moving parts      |
 | Heat Shrink                  | [AliExpress](https://www.aliexpress.com/item/1005008146302901.html)                                                       |     $3.62 |            1 | For exposed soldered wires      |
@@ -47,9 +47,9 @@ Make sure to lubricate all moving parts to prevent damage to your 3D print. This
 
 #### <ins>Totals (not including taxes or shipping)</ins>
 
-**Total (CAD):** $182.37
+**Total (CAD):** $217.43
 
-**Total (USD):** $132.87
+**Total (USD):** $158.35
 
 ### Images
 Schematic
