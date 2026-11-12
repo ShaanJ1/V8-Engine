@@ -1,5 +1,5 @@
 # V8 Engine
-A working 3D printed V8 engine powered by a DC motor with controllable speeds up to 1000RPM.
+A 3D printed V8 engine powered by a DC motor (NOTE: The motor control PCB does not work as of now, but you're still able to spin the engine manually or use the full speed of the motor)
 
 ### Note:
 Make sure to lubricate all moving parts to prevent damage to your 3D print. This project was made assuming that this will be printed in ABS, PETG, or another heat-resistant material. If you are using a material like PLA, note that the friction at high speeds may cause the print to very quicky melt, warp, or damage itself in another way.
